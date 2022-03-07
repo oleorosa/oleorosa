@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @oleorosa
+- 👀 I’m interested in C++, C#, HTML5 and Python
+- 🌱 I’m currently learning HTML5
+- 📫 How to reach me: https://www.linkedin.com/in/leonardo-rosa-law-process-master/
